@@ -9,3 +9,7 @@ Desktop:
 
 Mobile:
 <img src='src/design/Design-mobile.png'>
+
+## Tecnologias usadas:
+- Html
+- CSS
